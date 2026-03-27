@@ -3,7 +3,7 @@
   <h1>Hi, I'm <strong>stokesy3377</strong> 👋</h1>
   <p>Aspiring Cybersecurity Engineer and Computer Science student</p>
 
-  <img alt="retro tech computer gif" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5tcGNzZnFveDFveGNwcWF4ZTh0ZmVxcTJycTZhM2NycXV4ZzVneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTa1bZtgOPMbc/giphy.gif" />
+  <img alt="cyberpunk hacker gif" height="220" src="https://media.tenor.com/7IX0X20u05YAAAAC/coding-hacker.gif" />
 
 </div>
 
